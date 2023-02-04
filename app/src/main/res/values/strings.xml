@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Courier Panda</string>
+
+    <string-array name="vehicles">
+        <item>Motorcycle</item>
+        <item>Car</item>
+        <item>4x4 Pickup</item>
+
+    </string-array>
+
+</resources>
